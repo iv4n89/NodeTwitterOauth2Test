@@ -1,0 +1,9 @@
+/server/node_modules
+/client/node_modules
+*/**/node_modules
+/server/dist
+*/**/dist
+/server/db_data
+*/**/db_data
+/client/.next
+*/**/.next
